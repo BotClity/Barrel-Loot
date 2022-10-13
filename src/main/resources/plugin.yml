@@ -1,0 +1,12 @@
+name: BarrelLoot
+version: '${project.version}'
+main: com.rustrush.barrelloot.BarrelLoot
+api-version: 1.16
+commands:
+  spawn-barrel:
+    usage: spawn-barrel
+    description: "Save location for spawn"
+  delete-barrel:
+    usage: spawn-barrel
+    description: "delete location for spawn"
+
